@@ -8,7 +8,7 @@ Broadly speaking the core program flow is as follows:
 3. Display scores along with a "best" sentence from results containing the answer in context (good for manual filtering of false positives).
 4. Recieve user input to respond to the question using multiple "virtual player" accounts.
 
-### Additional features
+## Additional features
 The program provides a number of additional features including:
 1. Google Vision API interfacing to identify picture questions. Useful for identifying celebrities and logos for example.
 2. Android Debug Bridge (ADB) for taking a screenshot rapidly from an Android device. This was originally part of the core functionality
