@@ -19,7 +19,7 @@ requests==2.22.0
 requests-threads==0.1.1
 six==1.14.0
 soupsieve==1.9.5
-Twisted==19.10.0
+Twisted==22.1.0
 Unidecode==1.1.1
 urllib3==1.25.8
 yarl==1.4.2
